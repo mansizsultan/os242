@@ -4,6 +4,6 @@
 ZCZC W00 30 L03 Made Github repo and other stuff
 ZCZC W00 100 L02 Attended class on Monday
 ZCZC W00 100 L02 Attended class on Wednesday
-ZCZC W00 60 L21 Installed and tried WSL, Debian, dan Ubuntu to familiarize with linux
+ZCZC W00 60 L21 Installed and tried WSL, Debian, and Ubuntu to familiarize with linux
 ZCZC W00 45 L09 Finished the W00 assignment
 ZCZC W00 45 L05 Prepared and studied for quiz
