@@ -1,3 +1,3 @@
 | Log             | Github                                         | Links  |
 |-----------------|------------------------------------------------|--------|
-| [TXT/mylog.txt](https://github.com/mansizsultan/os242/blob/master/TXT/mylog.txt) | [https://github.com/mansizsultan/os242](https://github.com/mansizsultan/os242) | [Links](https://github.com/mansizsultan/os242/blob/master/links.md) |
+| [TXT/mylog.txt](https://mansizsultan.github.io/os242/TXT/mylog.txt) | [https://github.com/mansizsultan/os242](https://github.com/mansizsultan/os242) | [LINKS](https://mansizsultan.github.io/os242/LINKS) |
