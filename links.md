@@ -4,7 +4,7 @@ permalink: LINKS
 
 # LINKS
 
-# Week 00
+## WEEK 00
 
 * <https://os.vlsm.org/> --- OS242
 
@@ -15,7 +15,7 @@ A video talking about the things we'll learn during this lecture and what is the
 Some easy-to-use commands you can use to inspect hardware.
 These commands will help you list PCI devices, view information about your CPU, and more.
 
-# Week 01
+## WEEK 01
 
 * [50 Most Popular Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) --- 
 A video covering 50 essential and widely-used Linux commands, such as cat, find, grep, mv, cp, cd, and others. These commands will greatly simplify navigating and working within the Linux environment.
