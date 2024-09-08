@@ -26,4 +26,4 @@ Learn the fundamentals you need to begin editing text in vi or vim.
 * [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk) --- 
 This video has been incredibly helpful for me in understanding and applying regular expressions, significantly improving my ability to work with text patterns and manipulate data more efficiently.
 
-#### REV: Mon 08 Sep 2024 14:40
+#### REV: Sun 08 Sep 2024 14:40
