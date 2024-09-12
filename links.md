@@ -26,4 +26,15 @@ Learn the fundamentals you need to begin editing text in vi or vim.
 * [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk) --- 
 This video has been incredibly helpful for me in understanding and applying regular expressions, significantly improving my ability to work with text patterns and manipulate data more efficiently.
 
-#### REV: Sun 08 Sep 2024 14:40
+## WEEK 02
+
+* [What Is a Checksum?](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/) ---
+This week, we often hear the term 'checksum'. I personally juts heard it in this lecture. So, I learn what checksum is from this page.
+
+* [Cybersecurity and Zero Trust](https://www.youtube.com/watch?v=FMMWSLIcaME) ---
+In week 02, we learn about the point of cybersecurity and term like Zero Trust Environment. This video has helped me a lot to understand the topic about that.
+
+* [Introduction to Cryptography](https://www.synopsys.com/glossary/what-is-cryptography.html) ---
+This website is a great place to learn the basics of cryptography.
+
+#### REV: Thu 12 Sep 2024 07:00
