@@ -17,3 +17,13 @@ ZCZC W01 60 L70 Studied for other lecture labs
 ZCZC W01 90 L05 Prepared and studied for quiz
 ZCZC W01 20 L05 QUIZ
 ZCZC W01 10 L41 Update mylog.txt
+ZCZC W02 30 L05 Read slides before attending class 
+ZCZC W02 100 L02 Attended class on Monday
+ZCZC W02 60 L09 Started doing W02 weekly assignment
+ZCZC W02 60 L70 Studied for other lecture labs
+ZCZC W02 100 L02 Attended class on Wednesday
+ZCZC W02 60 L03 Update my links.md
+ZCZC W02 45 L05 Prepared and studied for quiz
+ZCZC W02 20 L05 QUIZ
+ZCZC W02 120 L09 Finished all the W02 popquiz and assignments
+ZCZC W02 30 L41 Update mylog.txt
