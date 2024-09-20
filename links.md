@@ -48,4 +48,4 @@ Also talking about filesystems which is very unfamiliar with me, this site reall
 * [What is External Fragmentation and Compaction](https://www.youtube.com/watch?v=W_baoquYJ5Q) ---
 If you're curious about external fragmentation, this video provides a clear example using contiguous memory allocation. It also demonstrates how to solve the issue through compaction.
 
-#### REV: Thu 20 Sep 2024 10:30
+#### REV: Fri 20 Sep 2024 10:30
