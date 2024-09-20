@@ -37,4 +37,15 @@ In week 02, we learn about the point of cybersecurity and term like Zero Trust E
 * [Introduction to Cryptography](https://www.synopsys.com/glossary/what-is-cryptography.html) ---
 This website is a great place to learn the basics of cryptography.
 
-#### REV: Thu 12 Sep 2024 07:00
+## WEEK 03
+
+* [Virtual filesystems in Linux](https://opensource.com/article/19/3/virtual-filesystems-linux) ---
+Virtual filesystems (VFS) provide the essential abstraction that enables the Linux philosophy of treating everything as a file.
+
+* [Definition and Explanation of FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html) ---
+Also talking about filesystems which is very unfamiliar with me, this site really gives me the general idea and view about what FUSE is.
+
+* [What is External Fragmentation and Compaction](https://www.youtube.com/watch?v=W_baoquYJ5Q) ---
+If you're curious about external fragmentation, this video provides a clear example using contiguous memory allocation. It also demonstrates how to solve the issue through compaction.
+
+#### REV: Thu 20 Sep 2024 10:30
