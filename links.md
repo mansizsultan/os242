@@ -48,4 +48,15 @@ Also talking about filesystems which is very unfamiliar with me, this site reall
 * [What is External Fragmentation and Compaction](https://www.youtube.com/watch?v=W_baoquYJ5Q) ---
 If you're curious about external fragmentation, this video provides a clear example using contiguous memory allocation. It also demonstrates how to solve the issue through compaction.
 
-#### REV: Fri 20 Sep 2024 10:30
+## WEEK 04
+
+* [Dynamic & Static Linking](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking) --- 
+Linking combines external code with your program for it to run. Static linking bundles everything together upfront, while dynamic linking connects the pieces as needed during execution.
+
+* [Brief of Address Binding](https://www.i2tutorials.com/os-introduction/os-address-binding/) ---
+Address binding connects a program's logical addresses to actual physical memory locations. This allows the program to access and use memory during execution.
+
+* [Introduction of Pointer in C](https://www.geeksforgeeks.org/c-pointers/) ---
+This page explains about pointer with illustration to make it easier to grasp. I found this page valuable because when learning C programming, we use pointer a lot.
+
+#### REV: Mon 30 Sep 2024 10:10
