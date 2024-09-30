@@ -35,3 +35,10 @@ ZCZC W03 60 L70 Studied for other lecture labs
 ZCZC W03 90 L06 Study and find references for links.md updates
 ZCZC W03 90 L09 Finished all the W03 popquiz and assignments
 ZCZC W03 30 L41 Update mylog.txt
+ZCZC W04 100 L02 Attended class on Wednesday
+ZCZC W04 90 L06 Study and find references for links.md updates
+ZCZC W04 60 L70 Studied for other lecture assignment
+ZCZC W04 60 L05 Prepared and studied for quiz
+ZCZC W04 20 L05 QUIZ
+ZCZC W04 90 L09 Finished all the W04 popquiz and assignments
+ZCZC W04 30 L41 Update mylog.txt
