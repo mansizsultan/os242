@@ -59,4 +59,15 @@ Address binding connects a program's logical addresses to actual physical memory
 * [Introduction of Pointer in C](https://www.geeksforgeeks.org/c-pointers/) ---
 This page explains about pointer with illustration to make it easier to grasp. I found this page valuable because when learning C programming, we use pointer a lot.
 
-#### REV: Mon 30 Sep 2024 10:10
+## WEEK 05
+
+* [Virtual and Physical Addresses](https://student.cs.uwaterloo.ca/~cs350/F06/slides/cs350_D.pdf) ---
+Hardware deals with physical memory addresses, while the operating system kernel manages virtual addresses and split the physical memory into partitions of varying sizes.
+
+* [What is Virtual Memory?](https://www.techmonitor.ai/what-is/what-is-virtual-memory-4929986) ---
+Virtual memory lets computers use hard disk space to expand their RAM capacity. When RAM is full, less active data is moved to a paging file on the hard disk, freeing up RAM for ongoing tasks. This combination of RAM and disk space creates the illusion of more memory than physically available.
+
+* [Memory Allocators Selection](https://stackoverflow.com/questions/15470560/what-to-choose-between-slab-and-slub-allocator-in-linux-kernel) ---
+There slab, slub, and slob are the available memory allocators in linux. How do you choose between the three of them? Do you just randomly pick one allocator and go on with life? I don’t think so. In this post you would learn more about allocators.
+
+#### REV: Sat 05 Oct 2024 17:25
