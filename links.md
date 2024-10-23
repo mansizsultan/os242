@@ -1,3 +1,4 @@
+
 ---
 permalink: LINKS/
 ---
@@ -70,4 +71,15 @@ Virtual memory lets computers use hard disk space to expand their RAM capacity. 
 * [Memory Allocators Selection](https://stackoverflow.com/questions/15470560/what-to-choose-between-slab-and-slub-allocator-in-linux-kernel) ---
 There slab, slub, and slob are the available memory allocators in linux. How do you choose between the three of them? Do you just randomly pick one allocator and go on with life? I don’t think so. In this post you would learn more about allocators.
 
-#### REV: Sat 05 Oct 2024 17:25
+## WEEK 06
+
+* [Multithreading](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm) ---
+A thread is like a mini-program within a larger program, having its own way of tracking progress and managing information. It's a single path of execution within the program's code, with its own counter to keep track of which instruction comes next, its own set of variables to work with, and a history of where it's been.
+
+* [Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8) ---
+The link explains in detail about threads and concurrency procedures. The existence of multicore benefits us to be able to run several processes or threads simultaneously.
+
+* [Fork() in C Programming Language](https://www.webscale.com/engineering-education/) ---
+In the world of Unix-like operating systems like Linux, fork() is the go-to method for creating new processes. It's like a copy machine for running programs, creating a near-identical replica of the original process, which we call the "parent." This new copy is known as the "child" process, and it runs independently alongside its parent. Keep in mind that fork() is exclusive to Unix-like systems and won't work on other platforms like Windows. For a more detailed explanation and interesting facts about fork(), be sure to check out the accompanying article.
+
+#### REV: Wed 23 Oct 2024 12:10
