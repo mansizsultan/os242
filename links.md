@@ -81,4 +81,12 @@ The link explains in detail about threads and concurrency procedures. The existe
 * [Fork() in C Programming Language](https://www.webscale.com/engineering-education/) ---
 In the world of Unix-like operating systems like Linux, fork() is the go-to method for creating new processes. It's like a copy machine for running programs, creating a near-identical replica of the original process, which we call the "parent." This new copy is known as the "child" process, and it runs independently alongside its parent. Keep in mind that fork() is exclusive to Unix-like systems and won't work on other platforms like Windows. For a more detailed explanation and interesting facts about fork(), be sure to check out the accompanying article.
 
-#### REV: Wed 23 Oct 2024 12:10
+## WEEK 07
+
+* [Introduction of Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
+A good article that introduces the concept of deadlocks in an operating system, how to prevent or avoid them, and how to recovery from them.
+
+* [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) ---
+A good article in explaining how semaphores work for process synchronization.
+
+#### REV: SAT 02 NOV 2024 23:30
