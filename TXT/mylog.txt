@@ -66,3 +66,11 @@ ZCZC W07 60 L05 Prepared and studied for quiz
 ZCZC W07 20 L05 QUIZ
 ZCZC W07 90 L09 Finished all the W07 popquiz and assignments
 ZCZC W07 30 L41 Update mylog.txt
+ZCZC W08 100 L02 Attended class on Monday
+ZCZC W08 100 L02 Attended class on Wednesday
+ZCZC W08 90 L06 Study and find references for links.md updates
+ZCZC W08 60 L70 Studied for other lecture assignment
+ZCZC W08 60 L05 Prepared and studied for quiz
+ZCZC W08 20 L05 QUIZ
+ZCZC W08 90 L09 Finished all the W08 popquiz and assignments
+ZCZC W08 30 L41 Update mylog.txt
