@@ -89,4 +89,11 @@ A good article that introduces the concept of deadlocks in an operating system, 
 * [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) ---
 A good article in explaining how semaphores work for process synchronization.
 
-#### REV: SAT 02 NOV 2024 23:30
+## WEEK 08
+* [LFS 12.0 Playlist by Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+A very good playlist consisting of detailed videos regarding LFS that makes me sure I'm doing the correct thing.
+
+* [CPU Scheduling in OS](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) ---
+A very good article explaining what CPU scheduling is and some CPU scheduling algorithms.
+
+#### REV: THU 07 NOV 2024 09:20
